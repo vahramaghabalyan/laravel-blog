@@ -2,7 +2,7 @@
     "name": "vahramaghabalyan/laravel-blog",
     "description": "Binshops blog",
     "require": {
-        "vahramaghabalyan/laravel-blog" : "^9.2"
+        "vahramaghabalyan/laravel-blog" : "dev-master"
     },
     "repositories": [
         {
