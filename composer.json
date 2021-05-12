@@ -39,7 +39,7 @@
             "type": "vcs",
             "url":  "git@github.com:vahramaghabalyan/laravel-blog.git"
         }
-    ]
+    ],
     "require-dev": {
         "phpunit/phpunit": "*",
         "orchestra/testbench": "4.0.*",
